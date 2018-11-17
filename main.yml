@@ -1,0 +1,5 @@
+-----
+- host: server
+  remote_user: ubuntu
+tasks:
+  - action: ping
