@@ -18,9 +18,10 @@ sudo apt-get install ansible
 
 ## Configure hosts file and verify/edit hosts in main.yml if needed
 
-1. Replace with your target server ip/domain address in hosts file
-2. Add the file location to ssh pem key in hosts file
+1. Replace (12.345.678.90) with your target server ip/domain address in hosts file 
+2. Add the file location to ssh pem key in hosts file (ex. ansible_ssh_private_key_file= directory/location/to/your/pem/key/file)
 3. Verify/edit hosts in main.yml if needed
+
 
 
 ## Run
