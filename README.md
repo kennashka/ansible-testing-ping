@@ -26,5 +26,5 @@ sudo apt-get install ansible
 
 ## Run
 ```bash
-ansible-playbook -i ./hosts ./main.yml
+ansible-playbook -i ./hosts tasks/main.yml
 ```
