@@ -1,0 +1,23 @@
+galaxy_info:
+  author: Kennashka DeSilva
+  description: "Pings a targeted host (Web Domain/Ip Address)."
+  company: "Hactopia, LLC"
+  license: "license (BSD, MIT)"
+  min_ansible_version: 2.4
+  platforms:
+    - name: EL
+      versions:
+        - 6
+        - 7
+    - name: Fedora
+      versions:
+        - all
+    - name: Ubuntu
+      versions:
+        - all
+    - name: Debian
+      versions:
+        - all
+  galaxy_tags:
+    - networking
+    - system
