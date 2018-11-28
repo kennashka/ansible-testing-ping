@@ -16,6 +16,13 @@ sudo apt-get install ansible
 
 ```
 
+## Role Installation 
+
+```bash
+ansible-galaxy install kennashka.ansible_testing_ping
+
+```
+
 ## Configure hosts file and verify/edit hosts in main.yml if needed
 
 1. Replace (12.345.678.90) with your target server ip/domain address in hosts file 
