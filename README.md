@@ -1,5 +1,5 @@
 # Ansible Testing Ping
-Masternode Ping Test
+Ping Test
 
 
 ### Version
